@@ -1,0 +1,11 @@
+# Large media files
+Recordings/
+Slides/
+
+# Python build artifacts
+*.egg-info/
+
+# macOS
+.DS_Store
+
+.env
